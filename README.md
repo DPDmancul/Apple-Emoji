@@ -13,8 +13,10 @@ Style package for directly including color emojis in LaTeX documents with suppor
 
     # mkdir -p /usr/share/texlive/texmf-dist/tex/latex
     # cd /usr/share/texlive/texmf-dist/tex/latex
-    # git clone git@github.com:DPDmancul/Apple-Emoji.git
+    # git clone https://github.com/DPDmancul/Apple-Emoji.git
     # texhash
+    
+For Arch Linux: [latex-apple-emoji-git](https://aur.archlinux.org/packages/latex-apple-emoji-git/)
 
 ## Examples TODO
 
